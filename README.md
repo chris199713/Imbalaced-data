@@ -4,9 +4,9 @@ The data used is the credit card fraud detection dataset provided to the public 
 
 # Method
 - Stratified Cross Validation
-- metrics
-  Recall
-  Precision
-  F1score
+- Metrics
+  -Recall
+  -Precision
+  -F1score
 
 
